@@ -41,6 +41,9 @@ jobs:
       - name: Build book
         run: mdbook build
 
+      - name: Add CNAME
+        run: echo "notes.codelif.in" > ./book/CNAME
+
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v4
         with:
