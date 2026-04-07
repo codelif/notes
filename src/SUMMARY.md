@@ -1,6 +1,7 @@
 # Summary
 
 - [Linear Regression](./linear-regression.md)
+- [Multiple Linear Regression](./multiple-linear-regression.md)
 - [Logistic Regression](./logistic-regression.md)
 - [Principal Component Analysis (PCA)](./principal-component-analysis-pca.md)
 - [K-Nearest Neighbor](./k-nearest-neighbor.md)
